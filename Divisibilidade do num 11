@@ -1,7 +1,0 @@
- #Escreva um programa que testa se um número é divisível por 11.
-
-Number = int ( input (' Digite o seu número :') )
-if  Number % 11 == 0 :
-    print (Number, 'é divisível')
-else:
-    print (Number, 'não é divisível')
